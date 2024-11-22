@@ -26,7 +26,7 @@ This project provides a Sudoku solver and generator implemented in C. The solver
    
 2. Compile the project:
    ```sh
-   gcc -o sudoku main.c Generate.c
+   gcc -o sudoku Sudoku.c Generate.c
 
 ### Usage
 
