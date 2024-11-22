@@ -7,6 +7,7 @@
 #include <math.h>
 #include "sudoku.h"
 #include <stdbool.h>
+#include <time.h>
 
 // Устанавливаем зелёный цвет для консоли
 void setGreenText() {
