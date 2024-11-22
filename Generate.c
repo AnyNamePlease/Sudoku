@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <time.h>
 #include <math.h>
+#include "sudoku.h"
 
 // Функция для проверки, можно ли поставить число в указанную ячейку
 int isElementUnique(const int N, char (*pmatrix)[N], int currentRow, int currentCol, char value) {
