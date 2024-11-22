@@ -22,7 +22,7 @@ This project provides a Sudoku solver and generator implemented in C. The solver
 1. Clone the repository:
    ```sh
    git clone https://github.com/AnyNamePlease/Sudoku.git
-   cd sudoku-solver-generator
+   cd Sudoku
    
 2. Compile the project:
    ```sh
