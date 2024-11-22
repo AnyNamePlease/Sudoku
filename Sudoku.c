@@ -260,7 +260,7 @@ int main() {
     while (1) {
         system("clear");
 
-        printf("Используйте WASD для перемещения по матрице. Нажмите 'q' для выхода.\n");
+        printf("Используйте WASD для перемещения по матрице. Нажмите 'q' для выхода, а 'b' для автоматического решения \n");
         printf("\n");
 
         printMatrix(N, pmatrix, pcolor, currentRow, currentCol);
