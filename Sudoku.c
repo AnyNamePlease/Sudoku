@@ -5,7 +5,6 @@
 #include <unistd.h>
 #include <string.h>
 #include <math.h>
-#include "Generate.c"
 #include "sudoku.h"
 #include <stdbool.h>
 
