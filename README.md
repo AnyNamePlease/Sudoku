@@ -36,6 +36,9 @@ Run the compiled program:
    ```
 Follow the on-screen instructions to either input your own Sudoku puzzle or generate a new one.
 
+### An example of autosolve mode
+![](https://github.com/AnyNamePlease/Sudoku/blob/main/Screen%20Recording%202024-12-13%20at%2000.32.40%20(1).gif)
+
 ## Code Structure
 
 ### Main File (main.c)
